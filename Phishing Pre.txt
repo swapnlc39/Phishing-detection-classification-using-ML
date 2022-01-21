@@ -1,0 +1,13 @@
+1. ExtraTreesClassifier
+2. DecisionTree_Classifier
+3. Logistic Regression
+4. Random Forest Classifier
+5. Support Vector Machine
+6. AdaBoost Classifier
+7. XGBoost Classifier
+8. K-Nearest Neighbors Classifier
+
+
+
+
+
